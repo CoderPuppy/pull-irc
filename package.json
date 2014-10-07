@@ -1,0 +1,9 @@
+{
+	"name": "pull-irc",
+	"version": "0.0.0",
+	"dependencies": {
+		"irc-parser": "^0.0.1",
+		"pull-split": "^0.1.2",
+		"debug": "^1.0.2"
+	}
+}
